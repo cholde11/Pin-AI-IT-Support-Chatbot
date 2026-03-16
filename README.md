@@ -16,7 +16,7 @@ If the issue cannot be resolved through automated assistance, the system escalat
 - Automated service desk ticket creation
 - Modular backend architecture
 
-## Technology Stack
+## Tech Stack
 
 - Python
 - FastAPI
