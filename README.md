@@ -36,4 +36,4 @@ The system uses a Retrieval-Augmented Generation pipeline:
 
 ## Team
 
-Developed collaboratively by a team of five students as part of the UW Tacoma IT Capstone program.
+Developed collaboratively by a team of five students as part of the UW Tacoma IT Senior Capstone project.
